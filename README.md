@@ -11,7 +11,7 @@
 - ⭕️ Computer Architecture / HW-SW co-desgin / ML system / VLSI & Soc
 - 🚕 Love beach and sunshine in Califonia / Vlogger with over 12k fans!
 - 🌐 Old website: https://zhuohaoli.xyz
-- ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/ (no monney to pay for a new domain name😭)
+- ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
 - 🥩 Love steak so much, especially fillet
 - 🏃 Tennis / Diving / 3A / Ski / Soccer
 - 🥋 Fitness, muscle aha!
