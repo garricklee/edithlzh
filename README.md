@@ -9,7 +9,8 @@
 - 💻 Currently work at NVIDIA as an intern. Former  campus talent (2021) and Alibaba CRO research intern and campus talent. Offer from Microsoft STCA 2022
 - ⚡ C++ / Python / Java / Verilog
 - ⭕️ Computer Architecture / HW-SW co-desgin / ML system / VLSI & Soc / Larger-scale NN accelerating
-- 🚕 Love beach and sunshine in Califonia / Vlogger with over 12k fans!
+- 🚕 Love beaches🏖️ and sunshine☀🌞 in Califonia 
+- 📷 Vlogger with over 12k fans!
 - 🌐 Old website: https://zhuohaoli.xyz
 - ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
 - 🥩 Love steak so much, especially fillet
