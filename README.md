@@ -10,10 +10,10 @@
 - ⚡ C++ / Python / Java / Verilog
 - ⭕️ Computer Architecture / HW-SW co-desgin / ML system / VLSI & Soc / Larger-scale NN accelerating
 - 🚕 Love beaches🏖️ and sunshine☀🌞 in Califonia 
-- 📷 Vlogger with over 12k fans!
+- 📷 Vlogger with over 12k fans! One vlog is over 260k 👀 and 👍
 - 🌐 Old website: https://zhuohaoli.xyz
 - ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
-- 🥩 Love steak so much, especially fillet
+- 🥩 Love to cook, fillet is my damn. Chuancai and hotpot crazy!! follwer! 
 - 🏃 Tennis / Diving / 3A / Ski / Soccer
 - 🥋 Fitness, muscle aha!
 - ♟ Chinese Chess / Chess 
