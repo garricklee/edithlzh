@@ -10,9 +10,10 @@
 - ⚡ C++ / Python / Java / Verilog
 - ⭕️ Computer Architecture / VLSI / Algorithm-SW-HW co-desgin efficient ML system / Edge Computing
 - 🚕 Love beaches🏖️ and sunshine☀️ in Califonia 
-- 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 280k 👀
-- 🌐 Old website: https://zhuohaoli.xyz
-- ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
+- 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 320k 👀 / Official manager of SJTU Weibo
+- Personal Website:
+  - 🌐 Old website: https://zhuohaoli.xyz
+  - ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
 - 🥩 Love to cook. Fillet superfan. Hotpot crazy follwer. 
 - 🏃 Tennis / Diving / 3A Games / Ski / Soccer
 - 🥋 Fitness, sincerely looking for muscle fitting partners
