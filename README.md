@@ -8,7 +8,7 @@
 - 🍻 Junior at 🇨🇳 [SJTU](https://www.sjtu.edu.cn), _B.eng in_ [_Microelectronics_](https://dmne.sjtu.edu.cn/dmne/) and [_Computer Science_](https://www.cs.sjtu.edu.cn/), expect to have an term exchange at [HKUST](https://hkust.edu.hk/) at 2022fall ! Looking for a **Master / PhD** position in **ECE** in NA at 2023fall
 - 💻 Currently work at NVIDIA as an intern. Former  campus talent (2021) and Alibaba CRO research intern and campus talent.
 - ⚡ C++ / Python / Java / Verilog
-- ⭕️ Computer Architecture / VLSI / HW-SW co-desgin / ML system / Large-scale NN accelerating / Edge Computing
+- ⭕️ Computer Architecture / VLSI / Algorithm-SW-HW co-desgin efficient ML system / Edge Computing
 - 🚕 Love beaches🏖️ and sunshine☀️ in Califonia 
 - 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 280k 👀
 - 🌐 Old website: https://zhuohaoli.xyz
