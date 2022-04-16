@@ -9,7 +9,7 @@
 - 💻 Former [](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern and campus talent.
 - ⚡ C++ / Python / Java / Verilog
 - ⭕️ Computer Architecture / VLSI / SW-HW Co-Desgin MLsys / HPComputing
-- 🚕 Love beaches🏖️ and sunshine☀️ in Califonia 
+- 🚕 Love BEACHES 🏖️ and SUNSHINE ☀️ in Califonia 
 - 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 320k 👀 / Official manager of SJTU Weibo
 - Personal Website:
   - 🌐 Old website: https://zhuohaoli.xyz
