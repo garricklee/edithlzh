@@ -6,10 +6,10 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
 
 - 🍻 Junior at 🇨🇳 [SJTU](https://www.sjtu.edu.cn), _B.eng in_ [_Microelectronics_](https://dmne.sjtu.edu.cn/dmne/) and [_Computer Science_](https://www.cs.sjtu.edu.cn/), expect to have an term exchange at [HKUST](https://hkust.edu.hk/) at 2022fall ! Looking for a **Master / PhD** position in **ECE** in NA at 2023fall
-- 💻 Former [](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern and campus talent.
-- ⚡ C++ / Python / Java / Verilog
-- ⭕️ Computer Architecture / VLSI / SW-HW Co-Desgin MLsys / HPComputing
-- 🚕 Love BEACHES 🏖️ and SUNSHINE ☀️ in Califonia 
+- 💻 Currently work as a Software Engineer Intern at [NVIDIA](https://www.nvidia.com), my work mainly focus on CUDA IPC. Former [Apple](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern and campus talent.
+- ⚡ C++ / Python / Java / Verilog (refer to my [CV](https://uploads.strikinglycdn.com/files/c95326a9-f14e-46aa-aecb-81b65c01bd02/main.pdf) for details)
+- ⭕️ Computer Architecture / Security / VLSI / SW-HW Co-Desgin MLsys / HPComputing
+- 🚕 BEACHES 🏖️ and SUNSHINE ☀️ in Califonia 
 - 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 320k 👀 / Official manager of SJTU Weibo
 - Personal Website:
   - 🌐 Old website: https://zhuohaoli.xyz
