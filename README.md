@@ -8,7 +8,7 @@
 - 🍻 Junior at 🇨🇳 [SJTU](https://www.sjtu.edu.cn), _B.eng in_ [_Microelectronics_](https://dmne.sjtu.edu.cn/dmne/) and [_Computer Science_](https://www.cs.sjtu.edu.cn/), honor term exchange at [HKUST](https://hkust.edu.hk/) at 2022fall. Looking for a **Master / PhD** position in **ECE** in NA at 2023fall
 - 💻 Currently work as a Software Engineer Intern at [NVIDIA](https://www.nvidia.com), my work mainly focus on CUDA IPC. Former [Apple](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern and campus talent.
 - ⚡ C++ / Python / Java / Verilog (refer to my [CV](https://uploads.strikinglycdn.com/files/c95326a9-f14e-46aa-aecb-81b65c01bd02/main.pdf) for details)
-- ⭕️ Computer Architecture / Security / VLSI / SW-HW Co-Desgin MLsys / HPComputing
+- ⭕️ Computer Architecture(Cache Replacement and Prefetching, Machine Learning System) / Security(Network on Hardware) / Compiler(Optimization for Parallelism and Security)
 - 🚕 BEACHES 🏖️ and SUNSHINE ☀️ in Califonia 
 - 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 320k 👀 / Official manager of SJTU Weibo
 - Personal Website:
