@@ -12,8 +12,8 @@
 - 🚕 BEACHES 🏖️ and SUNSHINE ☀️ in Califonia 
 - 📷 Phtograher / Vlogger with over 12k fans! One vlog is over 320k 👀 / Official manager of SJTU Weibo
 - Personal Website:
-  - 🌐 Old website: https://zhuohaoli.xyz
-  - ✅ New website: https://site-7161993-5050-3377.mystrikingly.com/
+  - 🌐 Old website: https://zhuohaoli.com
+  - ✅ New website: https://zhuohaoli.mystrikingly.com/
 - 🥩 Love to cook(Fillet, Hotpot)
 - 🏃 Tennis / Diving / Ski / NBA
 - 🥋 Fitness
