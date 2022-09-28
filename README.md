@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/edithlzh)
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
 
-- 🍻 Senior(B.Eng) in [Microelectronics](https://dmne.sjtu.edu.cn/dmne/) + [CS](https://www.cs.sjtu.edu.cn/)@ 🇨🇳 [SJTU](https://www.sjtu.edu.cn), exchange in [CSE](https://cse.hkust.edu.hk/)@ 🇭🇰[HKUST](https://hkust.edu.hk/). Looking for a **Master / PhD** position in **ECE** at 2023fall
+- 🍻 Senior(B.Eng) in [Microelectronics](https://dmne.sjtu.edu.cn/dmne/) + [CS](https://www.cs.sjtu.edu.cn/)@ 🇨🇳 [SJTU](https://www.sjtu.edu.cn), exchange in [CSE](https://cse.hkust.edu.hk/)@ 🇭🇰[HKUST](https://hkust.edu.hk/). Looking for a **Master / PhD** position in **ECE** in US started from 2023fall
 - 💻 Currently working as a SWE intern(2022) at [NVIDIA](https://www.nvidia.com) SW-GPU, focusing on new CUDA Toolkit and drivers. [Apple](https://www.apple.com) campus talent (2021) and [Alibaba CRO Group(AAIG)](https://s.alibaba.com/) research intern(2021).
 - ⚡ Stack: C++ / Python / Verilog 
 - ⭕️ Build heterogeneous and trustwhorthy computer architecture, system, compiler in data center, security, ML and other domain-specific areas
